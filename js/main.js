@@ -138,6 +138,8 @@ async function cargarProductos() {
         <p>No se pudieron cargar los productos. Intente nuevamente más tarde.</p>
     `;
 
+} finally {
+        console.info("Carga de productos finalizada");
 }
 }
 
