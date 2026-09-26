@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "nombre": "Corpiño",
+        "precio": 18500,
+        "stock": 10,
+        "imagen": "./assets/img/conjuntorosa1.jpeg"
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Bombacha",
+        "precio": 12000,
+        "stock": 8,
+        "imagen": "./assets/img/vedetina1.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Body",
+        "precio": 20000,
+        "stock": 4,
+        "imagen": "./assets/img/bodyrosa1.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pijama",
+        "precio": 25000,
+        "stock": 6,
+        "imagen": "./assets/img/pijama3.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Boxer",
+        "precio": 12000,
+        "stock": 6,
+        "imagen": "./assets/img/boxer1.jpeg"
+    }
+
+
+
+]
